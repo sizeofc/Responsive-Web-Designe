@@ -34,7 +34,7 @@
   <article class="project-grid project-tile">
   <header class="project-title">Formulario Encuesta</header>
     <figure class="project-img">
-      <a href="#"><img src="https://github.com/sizeofc/Responsive-Web-Designe/blob/2fc98c69fc73fe3a81f64f037baa79d1516408be/screenshoot-form-survey.png" alt=""></a>
+      <a href="#"><img src="../screenshoot-form-survey.png" alt=""></a>
     </figure>
   </article>
 
