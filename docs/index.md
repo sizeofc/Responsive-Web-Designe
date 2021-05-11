@@ -3,6 +3,7 @@
   <head>
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
     <title>Form Survey</title>
+    <link rel="stylesheet" href="docs/style.css" type="text/css">
   </head>
   <body>
 <nav id="navbar">
