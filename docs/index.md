@@ -1,6 +1,10 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-
+    <title>Form Survey</title>
+  </head>
+  <body>
 <nav id="navbar">
   <ul>
     <li><a class="navlink" href="#">Perfil</a></li>
@@ -46,3 +50,5 @@
 <footer id="footer">
       
     </footer>
+    </body>
+    </html>
