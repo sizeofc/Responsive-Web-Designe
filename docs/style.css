@@ -61,6 +61,7 @@ body{
 .project-grid{
   display:grid;
   justify-self:center;
+  margin-top:50px;
   
 }
 .project-img img{
@@ -83,4 +84,20 @@ body{
 #title{
   text-align:center;
   color:blue;
+}
+@media (max-width:400px){
+  #projects{
+  display:grid;
+  grid-template-areas:
+    "project-grid"
+    "project-grid"
+     "project-grid"
+     "project-grid"
+     "project-grid";
+  grid-template-columns:1fr
+  justify-items:center;
+  width:100%;
+  margin-top:30px;
+  margin-left:auto;
+}
 }
